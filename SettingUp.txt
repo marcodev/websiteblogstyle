@@ -15,6 +15,3 @@ to do this (in windows):
 	
 1. Setting up of development environment, Comparat site has been created.
 
-
-3. test trail for bherto39
-
