@@ -15,3 +15,24 @@ to do this (in windows):
 	
 1. Setting up of development environment, Comparat site has been created.
 
+plan B, use aptana studio
+
+
+1. Install Aptana Studio 3
+2. File>Import>
+	Git>Git Repository as New Project
+3. Under Source Repository Wizard / or Prompt
+	URI: https://github.com/marcodev/websiteblogstyle.git
+	Destination: local folder mo (i.e. d:\mygit\websiteblogstyle)
+4. Click Finish. It will clone the master branch.
+
+Open the project
+5. go to "Window> Show View> Project Explorer"
+6. view the files from git local copy
+7. try to commit
+8. from the Project Explorer, right click "SettingUp.txt"
+	Team>Commit.
+	
+	
+
+
