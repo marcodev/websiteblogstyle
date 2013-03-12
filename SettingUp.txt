@@ -15,3 +15,6 @@ to do this (in windows):
 	
 1. Setting up of development environment, Comparat site has been created.
 2. Setup Marla's account
+
+3. test trail for bherto39
+
