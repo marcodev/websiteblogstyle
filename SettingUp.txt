@@ -1,21 +1,10 @@
 
-You must be connected to the internet to access our git repo: https://github.com/bherto39android/Comparat
+You must be connected to the internet to access our git repo: https://github.com/marcodev/websiteblogstyle.git
 
-to do this (in windows):
-1. download and install http://windows.github.com/
-2. create an account in git
-3. login using that account in windows github application
-4. add a repository to your local 
-	our repo:
-	https://github.com/bherto39android/Comparat
-5. Follow the instructions here to setup and clone your local copy of the project
-	http://windows.github.com/
-	
+
 	
 	
 1. Setting up of development environment, Comparat site has been created.
-
-plan B, use aptana studio
 
 
 1. Install Aptana Studio 3
